@@ -1,0 +1,15 @@
+C:\hlocal\prueba\hoja1\hoja1\bin\Debug\net6.0\hoja1.exe
+C:\hlocal\prueba\hoja1\hoja1\bin\Debug\net6.0\hoja1.deps.json
+C:\hlocal\prueba\hoja1\hoja1\bin\Debug\net6.0\hoja1.runtimeconfig.json
+C:\hlocal\prueba\hoja1\hoja1\bin\Debug\net6.0\hoja1.dll
+C:\hlocal\prueba\hoja1\hoja1\bin\Debug\net6.0\hoja1.pdb
+C:\hlocal\prueba\hoja1\hoja1\obj\Debug\net6.0\hoja1.csproj.AssemblyReference.cache
+C:\hlocal\prueba\hoja1\hoja1\obj\Debug\net6.0\hoja1.GeneratedMSBuildEditorConfig.editorconfig
+C:\hlocal\prueba\hoja1\hoja1\obj\Debug\net6.0\hoja1.AssemblyInfoInputs.cache
+C:\hlocal\prueba\hoja1\hoja1\obj\Debug\net6.0\hoja1.AssemblyInfo.cs
+C:\hlocal\prueba\hoja1\hoja1\obj\Debug\net6.0\hoja1.csproj.CoreCompileInputs.cache
+C:\hlocal\prueba\hoja1\hoja1\obj\Debug\net6.0\hoja1.dll
+C:\hlocal\prueba\hoja1\hoja1\obj\Debug\net6.0\refint\hoja1.dll
+C:\hlocal\prueba\hoja1\hoja1\obj\Debug\net6.0\hoja1.pdb
+C:\hlocal\prueba\hoja1\hoja1\obj\Debug\net6.0\hoja1.genruntimeconfig.cache
+C:\hlocal\prueba\hoja1\hoja1\obj\Debug\net6.0\ref\hoja1.dll
