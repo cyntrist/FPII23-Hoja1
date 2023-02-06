@@ -6,10 +6,11 @@ namespace hoja1
     internal class Program
     {
         // Invariantes:
-        //Se verifica exp ≥ 0 y coef != 0 para todos los monomios del polinomio.
+        // Se verifica exp ≥ 0 y coef != 0 para todos los monomios del polinomio.
         // No existen dos monomios con el mismo exponente en el array de monomios (mon[i].exp ̸= mon[j].exp ∀i, j con 0 ≤ i<j<nMon
 
         const int N = 100; // tamaño de los arrays de monomios
+
         struct Monomio
         { // coeficiente y exponente
             public double coef;
